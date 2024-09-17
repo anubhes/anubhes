@@ -1,9 +1,9 @@
 body{
-    background-color: brown;
+    background-color: rgb(216, 131, 131);
     text-align: center;
 }
 p{
-    color: black;
+    color: rgb(83, 82, 82);
 }
 .dead{
     font-style: italic;
