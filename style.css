@@ -1,14 +1,36 @@
-body{
-    background-color: rgb(216, 131, 131);
+body {
+    background-color: #494d5f;
+    margin: 2px white;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+}
+#a0d2eb
+#494d5f
+#e5eaf5
+#845bb3
+#d0bdf4
+strong{color: rgb(0, 255, 221)
+}
+header {
+    border-bottom: solid 2px #845bb3;
+    padding: 20px;
+    font-size: px;
+    color: #d0bdf4;
+}
+h1 {color: #e5eaf5;
+    text-align: center
+}
+h2 {color: #7a918e;
+    text-align: center
+}
+nav a{color:#d0bdf4;
+    text-align: center
+}
+li {color: #e5eaf5;
+    text-align: left;
+    padding: 1.5%
+}
+p {color: #e5eaf5;
     text-align: center;
-}
-p{
-    color: rgb(83, 82, 82);
-}
-.dead{
-    font-style: italic;
-}
-.imgl{
-    width: 70%;
-}
-.hades{width: 50%;}
+    font-size: large;
+    padding: 5%;
