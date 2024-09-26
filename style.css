@@ -1,5 +1,5 @@
 body {
-    background-color: #494d5f;
+    background-color: #acacac;
     margin: 2px white;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
@@ -9,10 +9,10 @@ body {
 #e5eaf5
 #845bb3
 #d0bdf4
-strong{color: rgb(0, 255, 221)
+strong{color: rgb(94, 46, 182)
 }
 header {
-    border-bottom: solid 2px #845bb3;
+    border-bottom: solid 2px #772ccc;
     padding: 20px;
     font-size: px;
     color: #d0bdf4;
@@ -20,13 +20,13 @@ header {
 h1 {color: #e5eaf5;
     text-align: center
 }
-h2 {color: #7a918e;
+h2 {color: #322c44;
     text-align: center
 }
-nav a{color:#d0bdf4;
+nav a{color:#2d1e49;
     text-align: center
 }
-li {color: #e5eaf5;
+li {color: #6d29db;
     text-align: left;
     padding: 1.5%
 }
